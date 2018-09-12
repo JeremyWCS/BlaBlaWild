@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="search_text">Search</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="_01_01_1970">01/01/1970</string>
+    <string name="search">SEARCH</string>
+    <string name="error">Error</string>
+</resources>
