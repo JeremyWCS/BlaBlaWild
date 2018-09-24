@@ -27,7 +27,7 @@ public class ItinerarySearchActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_itinerary_search);
-        
+
         final Calendar myCalendar = Calendar.getInstance();
 
         final EditText editTextDate = findViewById(R.id.editText_date);

@@ -6,4 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".ItineraryListActivity">
 
+    <ListView
+        android:id="@+id/list_trip"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
